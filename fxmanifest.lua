@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 description 'aicore_bankrobbery'
-repository 'https://github.com/0error-scripts/aicore_bankrobbery'
+repository 'https://github.com/aicore-fivem/aicore_bankrobbery'
 version '1.0.0'
 
 ui_page 'html/index.html'
